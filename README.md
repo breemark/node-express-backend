@@ -24,3 +24,4 @@ A string that will be the password
 ```bash
 npm install
 ```
+Check the project on https://nodejs-express-backend.herokuapp.com/api/posts
